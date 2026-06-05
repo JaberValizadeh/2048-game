@@ -1,0 +1,20 @@
+# Large weight files
+rl_weights.bin
+
+# Compiled binaries
+*.exe
+*.o
+
+# Build artifacts
+build/
+
+# macOS metadata
+__MACOSX/
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Claude Code internals
+.claude/
